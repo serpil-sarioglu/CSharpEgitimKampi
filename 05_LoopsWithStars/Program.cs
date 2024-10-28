@@ -127,7 +127,7 @@ namespace _05_LoopsWithStars
             #region Ters Piramit
 
             int height = 5;
-            for (int i = height; i >=1; i--)
+            for (int i = height; i >= 1; i--)
             {
                 // Boşlukları yazdır
                 for (int j = height - i; j > 0; j--)
