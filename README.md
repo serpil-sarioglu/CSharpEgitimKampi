@@ -1,5 +1,5 @@
 #  :sparkles: C# Eğitim Kampı :sparkles:
-Bu projede adım adım C# programlama dili konularıyla ilgili pratik örnekler :rocket: yapılmaktadır . Proje Murat Yücedağ C# Programlama Kampı kursuyla paralel olarak devam etmektedir:running_woman: :running_woman:.
+Bu projede adım adım C# programlama dili konularıyla ilgili pratik örnekler :rocket: yapılmaktadır . Proje Murat Yücedağ youtube tarafında yayınlanan C# Eğitim Kampı kursuyla paralel olarak devam etmektedir. Tamamladığım derslerin konularını ve ödevlerini paylaşacağım :running_woman: :running_woman:. 
 
 ## C# 101
 
