@@ -1,5 +1,6 @@
 #  C# Eğitim Kampı 
-Bu projede, adım adım C# programlama dili konularına yönelik pratik örnekler gerçekleştirilmektedir. Proje, Murat Yücedağ rehberliğinde YouTube platformunda yayınlanan C# Eğitim Kampı kursuyla paralel olarak ilerlemektedir. Eğitim süreci, temel konulardan başlayarak ileri düzey konulara kadar devam edecektir. Tamamladığım projeleri burada paylaşacağım. :running_woman:. 
+Bu projede, C# programlama dili konularını üniversite düzeyinde bir müfredat ile adım adım öğreten çeşitli uygulamalar ve projeler geliştirilmektedir.
+Proje, Murat Yücedağ rehberliğinde YouTube platformunda yayınlanan C# Eğitim Kampı kursuyla paralel olarak ilerlemektedir. Eğitim süreci, temel konulardan başlayarak ileri düzey konulara kadar devam edecektir. Tamamladığım projeleri burada paylaşacağım. :running_woman:
 
 ## C# 101
 
@@ -10,7 +11,7 @@ Bu projede, adım adım C# programlama dili konularına yönelik pratik örnekle
 Değişkenler, klavyeden veri girişleri ve tür dönüşümleri konularını tamamladım :white_check_mark:
 
 ### :round_pushpin: Proje 3: Karar Yapıları
-If else ve switch case karar yapılarının amacına uygun kullanıldığı programlama örnekleri konusunu tamamladım ::white_check_mark:
+If else ve switch case karar yapılarının amacına uygun kullanıldığı programlama örnekleri konusunu tamamladım :white_check_mark:
 
 ### :round_pushpin: Proje 4: Döngüler
 For döngüsü, while döngüsü ve döngüleri karar yapılarıyla nasıl kullanıldığıyla ilgili programlama örnekleri konusunu tamamladım :white_check_mark:  
@@ -26,4 +27,4 @@ döngüler ve karar yapılarının kullanılması konularını tamamladım :whit
 Foreach döngüsünün diziler veya listelerde nasıl çalıştığı , öğrencilerin sınav notlarının değerlendirilmesi ve geçme durumlarının kontrol edildiği  programlama örneklerini tamamladım :white_check_mark:
 
 ### :round_pushpin: Proje 8: Metotlar
-Metotların tanımı, geriye değer döndürmeyen ve döndüren metotlar ile parametreli metotlar üzerinde duruluyor konuyla ilgili verilen programlama örneklerini tamamladım. 
+Metotların tanımı, geriye değer döndürmeyen ve döndüren metotlar ile parametreli metotlar üzerinde duruluyor konuyla ilgili verilen programlama örneklerini tamamladım :white_check_mark:
